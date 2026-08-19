@@ -20,12 +20,8 @@ The primary analyses use Spearman correlations and the manual stepwise regressio
 | `data/data_treated.xlsx` | Processed Brazilian dataset used in the reported analyses. |
 | `instruments/questionnaires.pdf` | Questionnaire materials used for data collection. |
 | `supplementary/S1_full_entry_regression_models.md` | Browser-readable version of the simultaneous-entry regression sensitivity analysis. |
-| `supplementary/S1_full_entry_regression_models.docx` | Formatted Word version of Supplementary Material S1. |
 | `supplementary/S2_tci_measurement_invariance.md` | Browser-readable version of the cross-context TCI measurement-invariance analysis. |
-| `supplementary/S2_tci_measurement_invariance_DRAFT.docx` | Formatted Word draft of Supplementary Material S2. Items requiring author confirmation are highlighted. |
-| `AUTHOR_ACTIONS.md` | Final checks required before making the repository public. |
-
-The spreadsheet and questionnaire files listed above must be copied into the indicated folders before the first public release. They correspond to the files previously distributed as `Data raw.xlsx`, `Data treated.xlsx`, and `Questionnaires.pdf`.
+highlighted. |
 
 ## Supplementary analyses
 
@@ -46,10 +42,6 @@ The current package supports inspection of the study data, instruments, and repo
 ## Ethical use
 
 The materials are provided for research and replication. Users must not attempt to identify participants or organizations from the shared data, combine the files with external information for re-identification, or use the data in ways inconsistent with the original consent and applicable ethics requirements.
-
-## Citation
-
-The associated Journal of Systems and Software manuscript is currently under revision. Please cite the final article and the archived repository release once their bibliographic details are available. Before publication, the maintainers should add a `CITATION.cff` file containing the final author list, title, repository version, and persistent identifier.
 
 ## License
 
