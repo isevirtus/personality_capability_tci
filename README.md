@@ -37,7 +37,7 @@ This analysis concerns the TCI only. It does not establish cross-context measure
 
 ## Using the materials
 
-The current package supports inspection of the study data, instruments, and reported supplementary results. Executable analysis scripts are not included in this draft release. Users seeking to reproduce the analyses should consult the methodological descriptions in the manuscript and supplementary materials and verify that the final public release documents all software, preprocessing, missing-data, and model-identification decisions.
+The current package supports inspection of the study data, instruments, and reported supplementary results. Executable analysis scripts are not included in this release. Users seeking to reproduce the analyses should consult the methodological descriptions in the manuscript and supplementary materials and verify that the final public release documents all software, preprocessing, missing-data, and model-identification decisions.
 
 ## Ethical use
 
